@@ -24,7 +24,17 @@ A modern, responsive coffee showcase website built with Next.js, React, and Tail
 ## Installation
 
 - Clone the repository:
-
+```bash
+git clone https://github.com/msrissaxox/starbrew.git
+```
+- Navigate to the project directory
+```bash
+cd starbrew
+```
+- Install Dependencies
+```bash
+npm install
+```
 ## Getting Started
 
 - Run the development server:
