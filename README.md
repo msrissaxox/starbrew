@@ -5,8 +5,7 @@ A modern, responsive coffee showcase website built with Next.js, React, and Tail
 
 - Responsive navigation bar
 - Multiple hero sections showcasing different aspects of the coffee experience
-- Dynamic card system for displaying coffee products
-- Custom coffee data management
+- Dynamic card system for displaying coffee products, the Card component is a reusable UI element for displaying coffee items. It allows users to select different sizes and dynamically updates the price based on the selection.
 - Mobile-friendly design
 - Modern UI with Tailwind CSS styling
 
@@ -16,11 +15,9 @@ A modern, responsive coffee showcase website built with Next.js, React, and Tail
 - Styling: Tailwind CSS
 - Backend: Node.js
 - Deployment: Vercel
-- Image Optimization: Next.js Image Component
 
 ## Prerequisites
 - Before you begin, ensure you have the following installed:
-
 - Node.js (version 14 or higher)
 - npm or yarn package manager
 
@@ -51,7 +48,6 @@ bun dev
 
 ## Data Management
 - Coffee product data is managed through the coffeedata.js file, which exports an array of coffee products with properties including:
-
 - id
 - name
 - picture
@@ -59,13 +55,11 @@ bun dev
 
 ## Deployment
 - This project is deployed on Vercel. For deployment:
-
 - Push your code to GitHub
 - Connect your repository to Vercel
 - Follow the deployment steps in Vercel's interface
 
 ## Contributing
-
 - Fork the repository
 - Create your feature branch (git checkout -b feature/AmazingFeature)
 - Commit your changes (git commit -m 'Add some AmazingFeature')
