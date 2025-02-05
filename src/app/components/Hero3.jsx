@@ -5,7 +5,7 @@ export default function Hero3() {
     <div className="mt-10 min-h-[300px] bg-backgroundGreen flex items-center justify-center">
       <div className="flex flex-col md:flex-row items-center max-w-8xl w-full">
         {/* Left Section - Image */}
-        <div className="w-full md:w-1/2 md:h-[600px]">
+        <div className="w-full md:w-1/2 h-[500px] md:h-[600px]">
           <img
             src="/hero3.jpg"
             className="w-full h-full object-cover"

@@ -22,7 +22,7 @@ export default function Hero2() {
         </div>
 
         {/* Right Section - Image */}
-        <div className="w-full md:w-1/2 md:h-[600px]">
+        <div className="w-full md:w-1/2 h-[500px] md:h-[600px]">
           <img
             src="/hero2.jpg"
             className="w-full h-full object-cover"
