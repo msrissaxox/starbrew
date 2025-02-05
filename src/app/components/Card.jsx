@@ -22,7 +22,7 @@ export default function Card(props) {
         alt="coffee image placeholder"
       />
       <div className="px-6 py-4">
-        <div className="font-bold text-xl mb-2">{props.name}</div>
+        <div className="font-bold text-xl mb-2 dark:text-gray-700">{props.name}</div>
         <p className="text-gray-700 text-base">{props.description} </p>
       </div>
 
