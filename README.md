@@ -1,6 +1,6 @@
 
 ## Live Page
-<a href="https://starbrew.vercel.app/">Starbrew App</a>
+<a href="https://starbrew.vercel.app/" target="_blank">Starbrew App</a>
 
 ## Starbrew ☕
 A modern, responsive coffee showcase website built with Next.js, React, and Tailwind CSS.
